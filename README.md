@@ -39,8 +39,9 @@ python app.py
 
 
 Open your browser: http://localhost:5000
-
+```
 ## 🐳 Docker
+
 1️⃣ Build the Docker image
 docker build -t islem55/ai-image-generator:latest .
 
