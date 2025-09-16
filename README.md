@@ -1,4 +1,4 @@
-AI Image Generator
+## AI Image Generator
 
 🖼️ AI Image Generator is a web application that generates images from text prompts using HuggingFace image generation models.
 
