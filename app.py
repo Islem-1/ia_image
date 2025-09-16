@@ -4,7 +4,7 @@ import base64
 
 app = Flask(__name__)
 
-HF_TOKEN = "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"  # <-- ton token HuggingFace
+HF_TOKEN = "your HuggingFace token"  # <-- ton token HuggingFace
 
 @app.route("/")
 def index():
